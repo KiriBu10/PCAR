@@ -1,0 +1,2 @@
+stem,variant,val_mae,test_mae,training_time_sec,model_path
+env_permit,TEST_SAMERES40_PAR,26.370336532592773,89.67179107666016,3188.5930461883545,models_pgt_xes\pgt_repoish_env_permit_TEST_SAMERES40_PAR.pt

@@ -1,0 +1,2 @@
+stem,variant,val_mae,test_mae,training_time_sec,model_path
+BPI_Challenge_2012,TEST_SAMERES40_PAR,169.22219848632812,144.4617156982422,186970.7144215107,models_pgt_xes\pgt_repoish_BPI_Challenge_2012_TEST_SAMERES40_PAR.pt

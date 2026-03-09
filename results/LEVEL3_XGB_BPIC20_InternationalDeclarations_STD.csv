@@ -1,0 +1,2 @@
+run,val_mae,test_mae,n_features,top_m_patterns,unique_patterns_seen_train,training_time_sec
+1,462.8274447261148,412.0104493638793,35,2000,0,1.8179583549499512

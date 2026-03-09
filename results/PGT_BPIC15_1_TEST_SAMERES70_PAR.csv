@@ -1,0 +1,2 @@
+stem,variant,val_mae,test_mae,training_time_sec,model_path
+BPIC15_1,TEST_SAMERES70_PAR,1070.565185546875,546.3583374023438,56076.34226369858,models_pgt_xes\pgt_repoish_BPIC15_1_TEST_SAMERES70_PAR.pt

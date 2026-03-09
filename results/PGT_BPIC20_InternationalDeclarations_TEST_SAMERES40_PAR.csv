@@ -1,0 +1,2 @@
+stem,variant,val_mae,test_mae,training_time_sec,model_path
+BPIC20_InternationalDeclarations,TEST_SAMERES40_PAR,405.57794189453125,340.291259765625,63639.20381140709,models_pgt_xes\pgt_repoish_BPIC20_InternationalDeclarations_TEST_SAMERES40_PAR.pt

@@ -1,0 +1,2 @@
+stem,variant,val_mae,test_mae,training_time_sec,model_path
+env_permit,GEN,26.589933395385742,88.34788513183594,2610.5598096847534,models_pgt_xes\pgt_repoish_env_permit_GEN.pt

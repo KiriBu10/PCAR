@@ -1,0 +1,2 @@
+stem,variant,val_mae,test_mae,training_time_sec,model_path
+BPIC20_InternationalDeclarations,GEN,402.87481689453125,530.9329223632812,57579.59976649284,models_pgt_xes\pgt_repoish_BPIC20_InternationalDeclarations_GEN.pt

@@ -1,0 +1,2 @@
+stem,variant,val_mae,test_mae,training_time_sec,model_path
+BPIC15_1,GEN,1068.6368408203125,990.0120849609375,61559.25601387024,models_pgt_xes\pgt_repoish_BPIC15_1_GEN.pt

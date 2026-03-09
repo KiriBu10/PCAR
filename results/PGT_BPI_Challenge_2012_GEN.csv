@@ -1,0 +1,2 @@
+stem,variant,val_mae,test_mae,training_time_sec,model_path
+BPI_Challenge_2012,GEN,169.61038208007812,169.38214111328125,220517.58736920357,models_pgt_xes\pgt_repoish_BPI_Challenge_2012_GEN.pt
