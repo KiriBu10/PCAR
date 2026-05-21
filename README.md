@@ -9,8 +9,7 @@ Empirical evaluations on five different scenarios demonstrate that PCAR outperfo
 
 ---
 Authors:
-- **Kiran Busch**: Department of Operations and Technology | Kühne Logistics University | Hamburg, Germany | kiran.busch(at)klu.org
-- **Henrik Leopold**: Department of Operations and Technology | Kühne Logistics University | Hamburg, Germany | henrik.leopold(at)klu.org
+
 
 ---
 PCAR considers:
